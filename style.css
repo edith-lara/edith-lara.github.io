@@ -1,0 +1,30 @@
+body{
+    background-color: #f8efb1;
+    color: #000000;
+    font-family: 'Dosis', sans-serif;
+}
+
+h1, p{
+    color: #0641ce;
+}
+
+h3{
+    font-size: 30px;
+}
+
+img{
+    width: 400px;
+    height: 180px;
+    border-style: ridge;
+    border-width: 3px;
+    border-color: blue;
+    padding: 3px;
+    margin: 10px;
+}
+
+a{
+    color: aqua;
+}
+
+
+
